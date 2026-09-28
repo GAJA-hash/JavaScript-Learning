@@ -1,14 +1,14 @@
 [
     {
-        "Name1": "GJ",
+        "Name": "GJ",
         "role": "Dad"
     },
     {
-        "Name2": "SS",
+        "Name": "SS",
         "role": "Mom"
     },
     {
-        "Name3": "SS",
+        "Name": "SS",
         "role": "Kid"
     }
 ]
